@@ -1,0 +1,24 @@
+h1 {
+    color:#80aaff;
+    font-family: 'Corinthia', cursive;
+    text-align: center;
+}
+
+.list{
+    font-family: 'Playfair Display', serif;
+ color: #5a03fc; }
+
+.secondlist{
+    font-family: 'PT Sans Narrow', sans-serif;
+    color: #ff00e6; }
+
+
+
+body {background: rgb(34,193,195);
+background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(119,179,190,1) 21%, rgba(169,129,190,1) 61%, rgba(67,195,234,1) 94%, rgba(45,253,242,1) 100%);
+}
+
+
+
+
+    
